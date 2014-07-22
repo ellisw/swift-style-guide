@@ -149,5 +149,5 @@ class ClassA {
 When declaring dictionary types, include a space before after the key type and after the colon:
 
 ```swift
-	var someDictionary: [String : Int]
+var someDictionary: [String : Int]
 ```
